@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://businessonuae.pages.dev/sitemap.xml
